@@ -1,6 +1,6 @@
 # AppCheck
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=유니티%20플래피버드fontSize=70" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=유니티%20플래피버드" />	
 </div>
 <div align=center>
 <h4> 내가 신청한 수강신청 목록을 어플로 바로 확인할수있고 다른 수업들의 정보를 확인 할수있는 어플 입니다</h4>
