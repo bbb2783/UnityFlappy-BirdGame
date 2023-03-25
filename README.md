@@ -10,7 +10,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/C#-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 <br>
